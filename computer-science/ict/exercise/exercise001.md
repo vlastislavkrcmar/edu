@@ -9,6 +9,9 @@ Procvičováná látka:
 Zadání:
 ---------------------
 Zpracujte jeden list A4 o 3 typech náboženství.
+- [Křesťanství](https://cs.wikipedia.org/wiki/K%C5%99es%C5%A5anstv%C3%AD)
+- [Judaismus](https://cs.wikipedia.org/wiki/Judaismus)
+- [Islám](https://cs.wikipedia.org/wiki/Isl%C3%A1m)
 
 Každý typ náboženství má svůj nadpis `Nadpis 1`.
 
